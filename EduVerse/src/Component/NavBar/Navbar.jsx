@@ -37,7 +37,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="campus" smooth={true} offset={-260} duration={500}>
+          <Link to="campus" smooth={true} offset={-220} duration={500}>
             Campus
           </Link>
         </li>
@@ -50,7 +50,7 @@ const Navbar = () => {
           <Link
             to="contact"
             smooth={true}
-            offset={-260}
+            offset={-220}
             duration={500}
             className="btn"
           >
