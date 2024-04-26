@@ -6,9 +6,6 @@ Eduverse is a website created entirely using React.js, a popular JavaScript libr
 ## 📌 **Live Site URL:** <a href="https://eduverseapp.netlify.app/">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
 <img alt="ReactJs" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4d-qz5zSkMYCbYyezUQ0MQmP1pcVG6dAAlX06SeXDcA&s"/>&nbsp;
 <br>
 <br>
