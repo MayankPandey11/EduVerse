@@ -1,10 +1,17 @@
-# Eduverse
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-## Description
+## ⭐ EduVerse ⭐
 
 Eduverse is a website created entirely using React.js, a popular JavaScript library for building user interfaces. The website serves [insert purpose or goal here]. It utilizes React's component-based architecture to create a dynamic and interactive user experience.
+
+
+## 📌 **Live Site URL:** <a href="https://eduverseapp.netlify.app/">**Visit Now** 🚀</a>
+
+## 📌 Tech Stack
+
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+<img alt="ReactJs" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbignet.in%2Fblog%2F311%2Fwhy-we-use-reactjs-in-english&psig=AOvVaw1eAb0e3hy11NfZmsTrcNz_&ust=1714211443425000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjB0LfN34UDFQAAAAAdAAAAABAE"/>&nbsp;
+<br>
+<br>
 
 ## Table of Contents
 
@@ -52,5 +59,9 @@ Contributions are welcome! If you'd like to contribute to Eduverse, please follo
 Please ensure that your code follows Eduverse's coding conventions and style guidelines.
 
 ## License
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [Mayank Pandey](https://www.linkedin.com/in/mayank-pandey-469714223/)
 
 Eduverse is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
