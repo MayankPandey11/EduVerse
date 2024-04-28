@@ -66,6 +66,9 @@ nav ul li{
     .hide-mobile-menu{
         right: -200px;
     }
+    ul  li a .btn{
+          font-size: 14px;
+    }
 }
 
 
